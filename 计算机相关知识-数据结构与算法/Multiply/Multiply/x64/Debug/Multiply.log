@@ -1,0 +1,4 @@
+﻿  Multiply.cpp
+C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-数据结构与算法\Multiply\Multiply.cpp(19,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-数据结构与算法\Multiply\Multiply.cpp(20,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Multiply.vcxproj -> C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-数据结构与算法\Multiply\x64\Debug\Multiply.exe
