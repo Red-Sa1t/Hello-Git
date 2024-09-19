@@ -1,3 +1,0 @@
-﻿  142857.cpp
-C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-数据结构与算法\142857\142857.cpp(10,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  142857.vcxproj -> C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-数据结构与算法\142857\x64\Debug\142857.exe
