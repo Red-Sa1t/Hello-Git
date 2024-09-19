@@ -1,3 +1,0 @@
-﻿  Students Information.cpp
-C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-编程语言\Students Information\Students Information.cpp(106,1): warning C4717: “ChangeInput”: 如递归所有控件路径，函数将导致运行时堆栈溢出
-  Students Information.vcxproj -> C:\Users\11292\Documents\GitHub\Hello-Git\计算机相关知识-编程语言\Students Information\x64\Debug\Students Information.exe
