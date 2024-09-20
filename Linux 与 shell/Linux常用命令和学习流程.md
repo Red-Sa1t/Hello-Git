@@ -98,6 +98,8 @@ reboot 重启
 
 logout 注销 
 
+来源: https://blog.csdn.net/LH0912666/article/details/87897629
+
 
 
 下载了vim 下载安装了ubuntu,  对照教程尝试使用vim编写了shell脚本
